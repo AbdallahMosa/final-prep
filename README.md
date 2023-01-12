@@ -111,3 +111,7 @@ Then the administrator should be able to view, edit and delete information for e
 
 <img alt="" src="domain.png" >
 
+# Database Schema Diagram 
+
+<img alt="" src="domain.png" >
+
