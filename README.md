@@ -62,5 +62,7 @@
 ## How will you communicate that it's time to merge?
   - discord
 
+# Wireframe
 
-  
+
+<img alt="" src="Wireframing in Figma.png" >
