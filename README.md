@@ -105,3 +105,9 @@ Given that the administrator has logged into the Services website platform
 When the administrator views the service providers page
 Then the administrator should be able to view, edit and delete information for each provider such as name, bio, and contact information.
 
+
+
+# Domain Modeling
+
+<img alt="" src="domain.png" >
+
