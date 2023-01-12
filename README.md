@@ -66,3 +66,42 @@
 
 
 <img alt="" src="Wireframing in Figma.png" >
+
+# User Stories
+  1. As a customer, I would like to be able to search for service providers based on service type, so that I can easily find a provider that is able to perform the service I need.
+
+
+     Acceptance Test:
+Given that the customer has accessed the Services website
+When the customer uses the search bar to filter by service type
+Then the application should display a list of service providers that match the customer's search criteria.
+ 
+ 2. As a service provider, I would like to be able to update my availability and schedule, so that customers can easily book my services.
+
+  
+    Acceptance Test:
+Given that the service provider has logged into their account on the Services website platform
+When the service provider updates their availability and schedule on their profile
+Then the application should display the updated availability and schedule on the provider's profile and customers should be able to book their services accordingly.
+  
+  3. As a customer, I would like to be able to book services directly through the website, so that I can easily schedule appointments.
+  
+     Acceptance Test:
+Given that the customer has accessed the Services website
+When the customer selects a service provider and date/time
+Then the application should allow the customer to book the service and confirm the appointment
+
+  4. As an administrator, I would like to be able to manage and edit service categories, so that I can keep the website's list of services up to date.
+
+     Acceptance Test:
+  Given that the administrator has logged into the Services website platform
+  When the administrator views the service categories page
+  Then the administrator should be able to add new categories, edit existing categories and delete unnecessary categories.
+ 
+5. As an administrator, I would like to be able to manage and edit service providers information, so that I can ensure that all the information displayed on the website is accurate and up-to-date.
+
+    Acceptance Test:
+Given that the administrator has logged into the Services website platform
+When the administrator views the service providers page
+Then the administrator should be able to view, edit and delete information for each provider such as name, bio, and contact information.
+
